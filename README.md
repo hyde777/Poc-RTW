@@ -1,0 +1,1 @@
+Yup, ceci est juste un petit projet qui utilise le Starter Kit de React et qui lui implémente Typescript avec Webpack et un server de développement(toujours Webpack)
